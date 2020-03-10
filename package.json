@@ -9,11 +9,14 @@
   },
   "repository": {
     "type": "git",
+    "url": "git+https://github.com/rileybrenner/burger.git"
   },
-  "author": "DCox",
+  "author": "",
   "license": "ISC",
   "bugs": {
+    "url": "https://github.com/rileybrenner/burger/issues"
   },
+  "homepage": "https://github.com/rileybrenner/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
